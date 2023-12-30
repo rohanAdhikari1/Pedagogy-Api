@@ -1,0 +1,5 @@
+**/migrations/
+**/private/
+*.pyc
+*.pyo
+__pycache__
